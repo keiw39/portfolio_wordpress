@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="14.25" viewBox="0 0 18 14.25">
+  <g id="グループ_8994" data-name="グループ 8994" transform="translate(-890 -355.75)">
+    <line id="線_25" data-name="線 25" x2="18" transform="translate(890 358)" fill="none" stroke="#222" stroke-width="1"/>
+    <line id="線_28" data-name="線 28" x2="18" transform="translate(890 363.001)" fill="none" stroke="#222" stroke-width="1"/>
+    <line id="線_30" data-name="線 30" x2="18" transform="translate(890 368)" fill="none" stroke="#222" stroke-width="1"/>
+    <g id="グループ_8991" data-name="グループ 8991" transform="translate(10 -0.25)">
+      <path id="パス_112" data-name="パス 112" d="M0,0V4.5" transform="translate(885 356)" fill="none" stroke="#222" stroke-width="1"/>
+      <line id="線_31" data-name="線 31" y2="4.5" transform="translate(886.001 356)" fill="none" stroke="#ffffa2" stroke-width="1"/>
+    </g>
+    <g id="グループ_8992" data-name="グループ 8992" transform="translate(19 4.75)">
+      <path id="パス_112-2" data-name="パス 112" d="M0,0V4.5" transform="translate(885 356)" fill="none" stroke="#222" stroke-width="1"/>
+      <line id="線_31-2" data-name="線 31" y2="4.5" transform="translate(886.001 356)" fill="none" stroke="#ffffa2" stroke-width="1"/>
+    </g>
+    <g id="グループ_8993" data-name="グループ 8993" transform="translate(12.999 9.5)">
+      <path id="パス_112-3" data-name="パス 112" d="M0,0V4.5" transform="translate(885 356)" fill="none" stroke="#222" stroke-width="1"/>
+      <line id="線_31-3" data-name="線 31" y2="4.5" transform="translate(886.001 356)" fill="none" stroke="#ffffa2" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
