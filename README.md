@@ -1,0 +1,2 @@
+# portfolio_wordpress
+WordPressを用いた「Webデザイナーのポートフォリオサイト」のWebサイト構築
